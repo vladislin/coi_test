@@ -2,7 +2,7 @@
 #### Create clone:
 
 ```
-https://github.com/vladislin/coi_test_task.git
+https://github.com/vladislin/coi_test.git
 ```
 
 #### Create at the root of the project file `.env`, example:
